@@ -1,4 +1,4 @@
-# Ksenia Osipova
+# Ksenia
 
 **Data / ML student at [42 Paris](https://42.fr), ex-QA engineer, looking for a 6-month Data internship (stage) in Paris / Île-de-France.**
 
