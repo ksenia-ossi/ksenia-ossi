@@ -41,7 +41,7 @@ My projects below cover the full data workflow: loading raw data into PostgreSQL
 |---|---|---|
 | **[transcendence](https://github.com/ksenia-ossi/transcendence)** | Real-time multiplayer Pong (42 team project of 3). I built the frontend SPA and the WebSocket game flow. | React 19, TypeScript, Tailwind, Zustand, WebSockets, Docker |
 | **[sound-access](https://github.com/ksenia-ossi/sound-access)** | SwiftUI music-player prototype exploring inclusive iOS UI: VoiceOver, Dynamic Type, Reduce Motion. | Swift, SwiftUI, XCTest |
-| **[clothes-tryon-extension](https://github.com/ksenia-ossi/clothes-tryon-extension)** | Chrome extension (Manifest V3): save clothing images from any shop and run a virtual try-on through the Replicate API. | JavaScript, Chrome Extensions API, Replicate |
+| **[clothes-try-on-extension](https://github.com/ksenia-ossi/clothes-try-on-extension)** | Chrome extension (Manifest V3): save clothing images from any shop and run a virtual try-on through the Replicate API. | JavaScript, Chrome Extensions API, Replicate |
 
 ## Background
 
