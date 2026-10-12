@@ -29,11 +29,17 @@ My projects below cover the full data workflow: loading raw data into PostgreSQL
 
 ## Data projects
 
+<a href="https://github.com/ksenia-ossi/ad-click-prediction"><img src="assets/ctr-by-feature.png" alt="Click-through rate by feature octile, Criteo dataset" width="100%"></a>
+<sub>ad-click-prediction: click-through rate by feature octile on the Criteo dataset, one of the EDA plots behind the feature engineering.</sub>
+
 | Project | What it is | Stack | Result |
 |---|---|---|---|
 | **[ad-click-prediction](https://github.com/ksenia-ossi/ad-click-prediction)** | End-to-end CTR pipeline on the public Criteo dataset: raw TSV → PostgreSQL → SQL/pandas EDA → feature engineering (hashing trick, missing-value indicators, log1p) → models → calibrated metrics. Time-based split, baseline first. | Python, PostgreSQL (Docker), pandas, scikit-learn, LightGBM, pytest | Logistic regression **AUC 0.766 / log-loss 0.466** vs LightGBM 0.756, both beating the constant baseline (0.546) |
 | **[tr-emea-supply-chain-dashboard](https://github.com/ksenia-ossi/tr-emea-supply-chain-dashboard)** | Supply-chain KPI dashboard for EMEA travel retail (synthetic data, 1 800 orders): star schema, OTIF / fill rate / lead time / cost per order, regional and seasonal breakdown. Power BI-ready data model with documented DAX measures. | Python, Excel, star schema, DAX | Found OTIF 2.7 pp below target, worst region (Africa, 73%) and the peak-season drop (66% in Dec) |
 | **[stage-finder](https://github.com/ksenia-ossi/stage-finder)** | Small Python web app that scrapes 3 job boards (LinkedIn, Welcome to the Jungle, HelloWork), de-duplicates offers, filters to Île-de-France internships and **ranks them against a configurable skills profile**. Tracks seen/saved/applied offers in SQLite, exports CSV. | Python, Flask, requests, SQLite | Used daily for my own internship search |
+
+<a href="https://github.com/ksenia-ossi/tr-emea-supply-chain-dashboard"><img src="assets/supply-chain-dashboard.png" alt="EMEA supply-chain KPI dashboard: OTIF trend and OTIF by region" width="100%"></a>
+<sub>tr-emea-supply-chain-dashboard: KPI cards, OTIF trend by month and OTIF by region.</sub>
 
 ## Other projects
 
