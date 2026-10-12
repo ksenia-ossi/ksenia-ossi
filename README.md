@@ -1,4 +1,4 @@
-# Hi, I'm Ksenia 👋
+# Ksenia Osipova
 
 **Data / ML student at [42 Paris](https://42.fr), ex-QA engineer, looking for a 6-month Data internship (stage) in Paris / Île-de-France.**
 
@@ -9,7 +9,7 @@ My projects below cover the full data workflow: loading raw data into PostgreSQL
 - 🗣️ English (professional) · French (B1) · Russian (native)
 - 📫 [LinkedIn](https://www.linkedin.com/in/TODO) <!-- TODO Ksenia: LinkedIn URL -->
 
-## 🛠 Tech stack
+## Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -27,7 +27,7 @@ My projects below cover the full data workflow: loading raw data into PostgreSQL
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-## 📊 Data projects
+## Data projects
 
 | Project | What it is | Stack | Result |
 |---|---|---|---|
@@ -35,7 +35,7 @@ My projects below cover the full data workflow: loading raw data into PostgreSQL
 | **[tr-emea-supply-chain-dashboard](https://github.com/ksenia-ossi/tr-emea-supply-chain-dashboard)** | Supply-chain KPI dashboard for EMEA travel retail (synthetic data, 1 800 orders): star schema, OTIF / fill rate / lead time / cost per order, regional and seasonal breakdown. Power BI-ready data model with documented DAX measures. | Python, Excel, star schema, DAX | Found OTIF 2.7 pp below target, worst region (Africa, 73%) and the peak-season drop (66% in Dec) |
 | **[stage-finder](https://github.com/ksenia-ossi/stage-finder)** | Small Flask tool that scrapes 3 job boards (LinkedIn, Welcome to the Jungle, HelloWork), de-duplicates offers, filters to Île-de-France internships and **ranks them against a configurable skills profile**. Tracks seen/saved/applied offers in SQLite, exports CSV. | Python, Flask, requests, SQLite | Used daily for my own internship search |
 
-## 💻 Other projects
+## Other projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -43,7 +43,7 @@ My projects below cover the full data workflow: loading raw data into PostgreSQL
 | **[sound-access](https://github.com/ksenia-ossi/sound-access)** | SwiftUI music-player prototype exploring inclusive iOS UI: VoiceOver, Dynamic Type, Reduce Motion. | Swift, SwiftUI, XCTest |
 | **[try](https://github.com/ksenia-ossi/try)** | Chrome extension (Manifest V3): save clothing images from any shop and run a virtual try-on through the Replicate API. | JavaScript, Chrome Extensions API, Replicate |
 
-## 🎓 Background
+## Background
 
 - **42 Paris**: Common Core completed (RNCP level 7). ML projects: multiclass logistic regression (team), multilayer perceptron from scratch, linear regression, SQL/PostgreSQL.
 - **Master's in World Economy & International Business**, Ural State University of Economics (statistics & econometrics coursework).
