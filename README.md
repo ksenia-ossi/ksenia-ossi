@@ -2,7 +2,7 @@
 
 **Data / ML student at [42 Paris](https://42.fr), ex-QA engineer, looking for a 6-month Data internship (stage) in Paris / Île-de-France.**
 
-My projects below cover the full data workflow — from loading raw data into PostgreSQL and exploring it, to building and evaluating ML models and documenting the results. Before 42 I worked as a QA engineer and did a Master's in International Business.
+My projects below cover the full data workflow: loading raw data into PostgreSQL and exploring it, building and evaluating ML models, and documenting the results. Before 42 I worked as a QA engineer and did a Master's in International Business.
 
 - 🔎 Looking for: **Data Analyst / Data Scientist / ML internship**, 6 months, Paris (convention de stage from 42)
 - 📅 Available from: **January 2027** <!-- TODO Ksenia: check the date -->
@@ -45,11 +45,11 @@ My projects below cover the full data workflow — from loading raw data into Po
 
 ## 🎓 Background
 
-- **42 Paris** — Common Core completed (RNCP level 7); ML projects: multiclass logistic regression (team), multilayer perceptron from scratch, linear regression, SQL/PostgreSQL.
-- **Master's in World Economy & International Business** — Ural State University of Economics (statistics & econometrics coursework).
+- **42 Paris**: Common Core completed (RNCP level 7). ML projects: multiclass logistic regression (team), multilayer perceptron from scratch, linear regression, SQL/PostgreSQL.
+- **Master's in World Economy & International Business**, Ural State University of Economics (statistics & econometrics coursework).
 - **Hackathons:** winner of the LVMH Hackathon · participant, Agora / Assemblée Nationale hackathon.
 - **Courses:** Hugging Face Agents Course (2025).
-- **Previously:** QA Engineer — test design, regression testing, bug reporting.
+- **Previously:** QA Engineer (test design, regression testing, bug reporting).
 
 <!-- Optional: GitHub stats card. Delete the comment markers to show it.
 ![Ksenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksenia-ossi&show_icons=true&hide_rank=true)
