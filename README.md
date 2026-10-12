@@ -2,7 +2,7 @@
 
 **Data / ML student at [42 Paris](https://42.fr), ex-QA engineer, looking for a 6-month Data internship (stage) in Paris / Île-de-France.**
 
-I like taking a dataset from raw files to a clear answer: load it into SQL, explore it, build a baseline, then a model, and explain what the numbers mean for the business. Before 42 I worked as a QA engineer and did a Master's in International Business, so I'm comfortable with both testing discipline and talking to non-technical stakeholders.
+I like taking a dataset from raw files to a clear answer: load it into SQL, explore it, build a baseline, then a model, and explain what the numbers mean for the business. Before 42 I worked as a QA engineer and did a Master's in International Business.
 
 - 🔎 Looking for: **Data Analyst / Data Scientist / ML internship**, 6 months, Paris (convention de stage from 42)
 - 📅 Available from: **January 2027** <!-- TODO Ksenia: check the date -->
