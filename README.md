@@ -7,7 +7,7 @@ I like taking a dataset from raw files to a clear answer: load it into SQL, expl
 - 🔎 Looking for: **Data Analyst / Data Scientist / ML internship**, 6 months, Paris (convention de stage from 42)
 - 📅 Available from: **January 2027** <!-- TODO Ksenia: check the date -->
 - 🗣️ English (professional) · French (B1) · Russian (native)
-- 📫 [LinkedIn](https://www.linkedin.com/in/TODO) · [ksenia.katzzz@gmail.com](mailto:ksenia.katzzz@gmail.com) <!-- TODO Ksenia: LinkedIn URL -->
+- 📫 [LinkedIn](https://www.linkedin.com/in/TODO) <!-- TODO Ksenia: LinkedIn URL -->
 
 ## 🛠 Tech stack
 
