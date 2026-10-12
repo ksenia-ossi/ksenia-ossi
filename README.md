@@ -6,7 +6,7 @@ My projects below cover the full data workflow: loading raw data into PostgreSQL
 
 - 🔎 Looking for: **Data Analyst / Data Scientist / ML internship**, 6 months, Paris (convention de stage from 42)
 - 📅 Available from: **January 2027** <!-- TODO Ksenia: check the date -->
-- 🗣️ English (professional) · French (B1) · Russian (native)
+- 🗣️ English (professional) · French (B1)
 - 📫 [LinkedIn](https://www.linkedin.com/in/TODO) <!-- TODO Ksenia: LinkedIn URL -->
 
 ## Tech stack
